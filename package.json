@@ -1,10 +1,9 @@
 {
   "name": "@laalipop/3hw_ajs",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +18,14 @@
     "babel-loader": "^8.2.2",
     "webpack": "^5.11.0",
     "webpack-cli": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laalipop/HW3_ajs_clon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laalipop/HW3_ajs_clon/issues"
+  },
+  "homepage": "https://github.com/laalipop/HW3_ajs_clon#readme",
+  "description": ""
 }
